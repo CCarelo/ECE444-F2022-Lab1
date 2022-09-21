@@ -16,3 +16,8 @@ Activity 3
 Activity 5
 
 ![image](https://user-images.githubusercontent.com/48865140/191617165-de3a132a-8136-4722-93c1-6386894f31ad.png)
+
+Activity 6
+https://github.com/CCarelo/ECE444-F2022-Lab1
+
+Activity 7
