@@ -21,3 +21,4 @@ Activity 6
 https://github.com/CCarelo/ECE444-F2022-Lab1
 
 Activity 7
+![image](https://user-images.githubusercontent.com/48865140/191635055-8923497b-35a0-4548-bbb9-8f249c4ff273.png)
