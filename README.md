@@ -19,7 +19,7 @@ Activity 5
 
 Activity 6
 
-https://github.com/CCarelo/ECE444-F2022-Lab1
+https://github.com/CCarelo/CE444-F2022-EP
 
 Activity 7
 
